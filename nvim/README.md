@@ -1,2 +1,2 @@
 # backup configurasi neovim pribadi </br>
-** silahkan jika ingin menggunakan 
+silahkan jika ingin menggunakan 
